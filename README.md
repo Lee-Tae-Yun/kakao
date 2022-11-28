@@ -1,6 +1,7 @@
 # kakao
 https://comforting-sherbet-8c3a01.netlify.app
 
+<img width="317" alt="스크린샷 2022-11-28 오후 4 53 11" src="https://user-images.githubusercontent.com/58839422/204223150-786ab74e-e834-4912-8829-a5a230732023.png">
 
 cordova 설정방법
 1. JDK 설치
