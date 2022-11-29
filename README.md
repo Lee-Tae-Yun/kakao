@@ -2,6 +2,11 @@
 https://comforting-sherbet-8c3a01.netlify.app
 
 <img width="317" alt="스크린샷 2022-11-28 오후 4 53 11" src="https://user-images.githubusercontent.com/58839422/204223150-786ab74e-e834-4912-8829-a5a230732023.png">
+<img width="315" alt="스크린샷 2022-11-29 오전 10 50 16" src="https://user-images.githubusercontent.com/58839422/204418636-10f9cb60-7f50-4473-87b2-33be0afb41c9.png">
+<img width="313" alt="스크린샷 2022-11-29 오전 10 50 34" src="https://user-images.githubusercontent.com/58839422/204418666-d33cd39a-3864-4930-ab2d-9df3de69be39.png">
+<img width="311" alt="스크린샷 2022-11-29 오전 10 50 47" src="https://user-images.githubusercontent.com/58839422/204418695-cebf0cac-7a03-4fce-a34b-30713535b580.png">
+<img width="310" alt="스크린샷 2022-11-29 오전 10 51 02" src="https://user-images.githubusercontent.com/58839422/204418726-6c36bb7e-9177-4e36-b1f9-f941ae41a4d8.png">
+<img width="313" alt="스크린샷 2022-11-29 오전 10 51 18" src="https://user-images.githubusercontent.com/58839422/204418763-d6223aaa-2d09-4e99-bda4-20272527c864.png">
 
 cordova 설정방법
 1. JDK 설치
